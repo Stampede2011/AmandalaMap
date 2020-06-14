@@ -1,81 +1,95 @@
 var markers={
-  "pixelmonmap": [
+  "amandala": [
     {
-      "groupName": "Citiesbe2e_90e7", 
-      "icon": "icons/marker_city.png", 
-      "createInfoWindow": true, 
-      "displayName": "Cities", 
-      "checked": true
-    }, 
+      "checked": true,
+      "createInfoWindow": false,
+      "displayName": "Spawn",
+      "groupName": "Spawn50fc_9579",
+      "icon": "marker_gym.png"
+    },
     {
-      "groupName": "Floroma_Gym2620_90e7", 
-      "icon": "icons/marker_floroma_gym.png", 
-      "createInfoWindow": true, 
-      "displayName": "Floroma Gym", 
-      "checked": true
-    }, 
+      "checked": true,
+      "createInfoWindow": true,
+      "displayName": "Gyms",
+      "groupName": "Gymsaf0d_9579",
+      "icon": "marker_gym.png"
+    },
     {
-      "groupName": "Snowbelle_Gym2627_90e7", 
-      "icon": "icons/marker_snowbelle_gym.png", 
-      "createInfoWindow": true, 
-      "displayName": "Snowbelle Gym", 
-      "checked": true
-    }, 
+      "checked": false,
+      "createInfoWindow": false,
+      "displayName": "PokeCenters",
+      "groupName": "PokeCenters50eb_9579",
+      "icon": "marker_pokecenter.png"
+    },
     {
-      "groupName": "Spectra_Gyms262e_90e7", 
-      "icon": "icons/marker_spectra_gym.png", 
-      "createInfoWindow": true, 
-      "displayName": "Spectra Gyms", 
-      "checked": true
-    }, 
+      "checked": true,
+      "createInfoWindow": false,
+      "displayName": "PokeMarts",
+      "groupName": "PokeMartsaf1e_9579",
+      "icon": "marker_pokemart.png"
+    },
     {
-      "groupName": "Canalave_Gym2635_90e7", 
-      "icon": "icons/marker_canalave_gym.png", 
-      "createInfoWindow": true, 
-      "displayName": "Canalave Gym", 
-      "checked": true
-    }, 
+      "checked": true,
+      "createInfoWindow": true,
+      "displayName": "Shrines",
+      "groupName": "Shrines50da_9579",
+      "icon": "marker_shrine.png"
+    },
     {
-      "groupName": "Avia_Gym263c_90e7", 
-      "icon": "icons/marker_avia_gym.png", 
-      "createInfoWindow": true, 
-      "displayName": "Avia Gym", 
-      "checked": true
-    }, 
+      "checked": true,
+      "createInfoWindow": true,
+      "displayName": "BossTowers",
+      "groupName": "BossTowersaf2f_9579",
+      "icon": "marker_bosstower.png"
+    },
     {
-      "groupName": "Terrera_Gym2643_90e7", 
-      "icon": "icons/marker_terrera_gym.png", 
-      "createInfoWindow": true, 
-      "displayName": "Terrera Gym", 
-      "checked": true
-    }, 
+      "checked": true,
+      "createInfoWindow": false,
+      "displayName": "PokeStops",
+      "groupName": "PokeStops50c9_9579",
+      "icon": "marker_pokestop.png"
+    },
     {
-      "groupName": "Cragspur_Gym264a_90e7", 
-      "icon": "icons/marker_cragspur_gym.png", 
-      "createInfoWindow": true, 
-      "displayName": "Cragspur Gym", 
-      "checked": true
-    }, 
+      "checked": true,
+      "createInfoWindow": true,
+      "displayName": "Powerplant",
+      "groupName": "Powerplantaf40_9579",
+      "icon": "marker_powerplant.png"
+    },
     {
-      "groupName": "Chrysalia_Gym2651_90e7", 
-      "icon": "icons/marker_chrysalia_gym.png", 
-      "createInfoWindow": true, 
-      "displayName": "Chrysalia Gym", 
-      "checked": true
-    }, 
+      "checked": true,
+      "createInfoWindow": true,
+      "displayName": "Mines",
+      "groupName": "Mines50b8_9579",
+      "icon": "marker_mines.png"
+    },
     {
-      "groupName": "Powerplant2658_90e7", 
-      "icon": "icons/marker_powerplant.png", 
-      "createInfoWindow": true, 
-      "displayName": "Powerplant", 
-      "checked": true
-    }, 
+      "checked": true,
+      "createInfoWindow": false,
+      "displayName": "Spawn",
+      "groupName": "Spawnaf51_9579",
+      "icon": "marker_text_spawn.png"
+    },
     {
-      "groupName": "Elite_Four265f_90e7", 
-      "icon": "icons/marker_elite_gym.png", 
-      "createInfoWindow": true, 
-      "displayName": "Elite Four", 
-      "checked": true
+      "checked": true,
+      "createInfoWindow": false,
+      "displayName": "Empire City",
+      "groupName": "Empire_City50a7_9579",
+      "icon": "marker_text_empire_city.png"
+    },
+    {
+      "checked": true,
+      "createInfoWindow": false,
+      "displayName": "Iki Town",
+      "groupName": "Iki_Townaf62_9579",
+      "icon": "marker_text_iki_town.png"
+    },
+    {
+      "checked": true,
+      "createInfoWindow": false,
+      "displayName": "Elite Island",
+      "groupName": "Elite_Island5096_9579",
+      "icon": "marker_text_elite_island.png"
     }
   ]
 };
